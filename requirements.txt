@@ -1,0 +1,5 @@
+qoptcraft
+numpy
+pandas
+jupyter
+perceval-quandela

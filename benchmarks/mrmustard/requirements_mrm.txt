@@ -1,0 +1,6 @@
+qoptcraft
+numpy
+pandas
+jax
+mrmustard==1.0.0a1
+jupyter
